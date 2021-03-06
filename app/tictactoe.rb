@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require 'pry'
 require_relative 'mylogger'
 
@@ -9,12 +10,15 @@ class Tictactoe
   def initialize
     @board = [[' ', ' ', ' '], [' ', ' ', ' '], [' ', ' ', ' ']]
     @moves = 9
-    @logger = Mylogger.new('TicTacToe')
+  end
+
+  def logger
+    @logger ||= Mylogger.new('TicTacToe')
   end
 
   def print
     puts printable_board
-    @logger.log("printed board")
+    logger.log('printed board')
   end
 
   def try_move(x, y, mark)
@@ -23,7 +27,7 @@ class Tictactoe
     mark(translate_x(x), translate_y(y), mark)
     true
   rescue InvalidInput => e
-    puts e.message
+    logger.log e.message
     false
   end
 
@@ -60,9 +64,10 @@ class Tictactoe
   end
 
   def printable_board
-    puts '*********'
-    puts "  a|b|c\n\n"
     board = []
+    board << '*********'
+    board << "  a|b|c\n\n"
+
     @board.each_with_index do |r, i|
       board << "#{i} #{r[0]}|#{r[1]}|#{r[2]}"
       board << '  -----' unless i == 2
