@@ -1,4 +1,6 @@
-# Ruby and RSpec
+# TicTacToe
+
+Simple pvp tictactoe game to play in console.
 
 ## Installation
 
@@ -16,3 +18,6 @@ Tests are located in `/spec` directory. To run them:
 ```bash
 $ bundle exec rspec
 ```
+## Playing game
+
+Start by running ruby app/game.rb on your console.
