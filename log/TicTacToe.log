@@ -1,573 +1,170 @@
+cr_win
+vr_win
+vr_win
+vr_win
+cr_win
+hz_win
+Move ok to coordinates 1, a ok, moves left 8
+Invalid x value: 4 for horizontal axis
+Invalid y value:   for vertical axis
+vr_win
+vr_win
+vr_win
+cr_win
+hz_win
+printed board
+printed board
+Move ok to coordinates 1, a ok, moves left 8
+printed board
+Invalid x value: a for horizontal axis
+Move ok to coordinates 1, a ok, moves left 7
+printed board
+Move ok to coordinates 1, a ok, moves left 6
+printed board
+Invalid x value: a for horizontal axis
+Move ok to coordinates 1, a ok, moves left 5
+printed board
+Move ok to coordinates 1, a ok, moves left 4
+printed board
+printed board
+Move ok to coordinates 1, a ok, moves left 8
+printed board
+square already taken.
+Invalid x value: a for horizontal axis
+Move ok to coordinates 2, a ok, moves left 7
+printed board
+Move ok to coordinates 3, c ok, moves left 6
+printed board
+Invalid x value: c for horizontal axis
+Move ok to coordinates 2, c ok, moves left 5
+printed board
+Invalid x value: c for horizontal axis
+Move ok to coordinates 1, c ok, moves left 4
+printed board
+Invalid x value: b for horizontal axis
+Move ok to coordinates 1, b ok, moves left 3
+printed board
+Invalid x value: b for horizontal axis
+Move ok to coordinates 3, b ok, moves left 2
+printed board
+Invalid x value: b for horizontal axis
+Move ok to coordinates 2, b ok, moves left 1
+printed board
+hz_win
+We have a winner, board at end [["X", "O", "X"], ["O", "O", "O"], [" ", "X", "X"]]
+printed board
+Move ok to coordinates 1, a ok, moves left 8
+printed board
+Move ok to coordinates 1, b ok, moves left 7
+printed board
+Move ok to coordinates 2, a ok, moves left 6
+printed board
+Move ok to coordinates 2, b ok, moves left 5
+printed board
+Move ok to coordinates 3, a ok, moves left 4
+printed board
+vr_win
+We have a winner, board at end [["X", "O", " "], ["X", "O", " "], ["X", " ", " "]]
+printed board
+Invalid x value: a for horizontal axis
+Move ok to coordinates 1, a ok, moves left 8
+printed board
+Invalid x value: a for horizontal axis
+Move ok to coordinates 2, a ok, moves left 7
+printed board
+Invalid x value: b for horizontal axis
+Move ok to coordinates 1, b ok, moves left 6
+printed board
+Invalid x value: b for horizontal axis
+Move ok to coordinates 2, b ok, moves left 5
+printed board
+Invalid x value: b for horizontal axis
+Move ok to coordinates 3, b ok, moves left 4
+printed board
+Invalid x value: b for horizontal axis
+square already taken.
+Invalid x value: c for horizontal axis
+Move ok to coordinates 2, c ok, moves left 3
+printed board
+hz_win
+We have a winner, board at end [["X", "X", " "], ["O", "O", "O"], [" ", "X", " "]]
 printed board
 printed board
 printed board
 printed board
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark x to coordinates 0 and 0
+Invalid x value: a for horizontal axis
+Move ok to coordinates 1, a ok, moves left 8
 printed board
-Added mark x to coordinates 0 and 0
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
+Invalid x value: a for horizontal axis
+Move ok to coordinates 2, a ok, moves left 7
 printed board
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
+Invalid x value: b for horizontal axis
+Move ok to coordinates 1, b ok, moves left 6
 printed board
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
+Invalid x value: b for horizontal axis
+Move ok to coordinates 2, b ok, moves left 5
 printed board
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
+Invalid x value: c for horizontal axis
+Move ok to coordinates 1, c ok, moves left 4
 printed board
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
+hz_win
+We have a winner, board at end [["X", "X", "X"], ["O", "O", " "], [" ", " ", " "]]
 printed board
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
+Invalid x value: a for horizontal axis
+Move ok to coordinates 1, a ok, moves left 8
 printed board
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
+Invalid x value: a for horizontal axis
+Move ok to coordinates 2, a ok, moves left 7
 printed board
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
+Invalid x value: b for horizontal axis
+Move ok to coordinates 1, b ok, moves left 6
 printed board
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
+Invalid x value: b for horizontal axis
+Move ok to coordinates 2, b ok, moves left 5
 printed board
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
+Invalid x value: c for horizontal axis
+Move ok to coordinates 1, c ok, moves left 4
 printed board
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
+hz_win
+We have a winner, board at end [["X", "X", "X"], ["O", "O", " "], [" ", " ", " "]]
 printed board
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
+Invalid x value:  for horizontal axis
+Invalid x value: [ for horizontal axis
+Move ok to coordinates 1, a ok, moves left 8
 printed board
-Added mark x to coordinates 0 and 0
-Invalid mark
-Invalid value for horizontal axis
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 0 and 1
-Added mark O to coordinates 0 and 2
-Added mark O to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 0
-Added mark O to coordinates 2 and 1
-Added mark O to coordinates 2 and 2
-Added mark X to coordinates 0 and 0
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 0 and 1
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 2 and 1
-Added mark X to coordinates 0 and 2
-Added mark X to coordinates 1 and 2
-Added mark X to coordinates 2 and 2
-Added mark X to coordinates 0 and 2
-Added mark O to coordinates 1 and 1
-Added mark X to coordinates 2 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 0
-Added mark X to coordinates 1 and 1
-Added mark X to coordinates 1 and 2
+square already taken.
+Invalid x value: a for horizontal axis
+Invalid x value: 4 for horizontal axis
+Invalid x value: u for horizontal axis
+Invalid x value: h for horizontal axis
+Invalid x value: e for horizontal axis
+square already taken.
+Invalid x value: a for horizontal axis
+Move ok to coordinates 1, b ok, moves left 7
+printed board
+Move ok to coordinates 1, c ok, moves left 6
+printed board
+printed board
+Move ok to coordinates 1, a ok, moves left 8
+printed board
+Move ok to coordinates 1, b ok, moves left 7
+printed board
+Move ok to coordinates 1, c ok, moves left 6
+printed board
+Move ok to coordinates 2, b ok, moves left 5
+printed board
+square already taken.
+Invalid x value: a for horizontal axis
+square already taken.
+Invalid x value: b for horizontal axis
+Move ok to coordinates 2, a ok, moves left 4
+printed board
+Move ok to coordinates 3, b ok, moves left 3
+printed board
+vr_win
+We have a winner, board at end [["X", "O", "X"], ["X", "O", " "], [" ", "O", " "]]
+printed board
+Move ok to coordinates 1, a ok, moves left 8
+printed board
+Move ok to coordinates 1, b ok, moves left 7
+printed board

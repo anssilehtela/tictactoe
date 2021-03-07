@@ -27,12 +27,12 @@ RSpec.describe 'tictactoe' do
 
     context 'when making moves it' do
       it 'adds valid ones to board' do
-        expect(game.try_move('1', 'a', 'x')).to be true
+        expect(game.try_move('1', 'a',)).to be true
       end
 
       it 'rejects invalid input' do
-        expect(game.try_move('4', 'f', 'x')).to be false
-        expect(game.try_move('1', ' ', 'x')).to be false
+        expect(game.try_move('4', 'f')).to be false
+        expect(game.try_move('1', ' ')).to be false
       end
     end
 
@@ -65,12 +65,9 @@ RSpec.describe 'tictactoe' do
       end
 
       it 'has a winning cross line' do
-        expect(game.cr_win?).to be false
         game.mark(0, 2, 'X')
-        game.mark(1, 1, 'O')
-        game.mark(2, 0, 'X')
-        expect(game.cr_win?).to be false
         game.mark(1, 1, 'X')
+        game.mark(2, 0, 'X')
         expect(game.cr_win?).to be true
       end
 
